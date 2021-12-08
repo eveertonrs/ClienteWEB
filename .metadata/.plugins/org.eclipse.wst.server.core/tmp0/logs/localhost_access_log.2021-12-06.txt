@@ -1,0 +1,11 @@
+127.0.0.1 - - [06/Dec/2021:11:45:53 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:45:53 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:46:01 -0300] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:46:01 -0300] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:46:07 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 200 150
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:51:03 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 200 226
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:51:05 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:51:29 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 200 226
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:11:51:37 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 200 226
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:13:19:08 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [06/Dec/2021:13:19:31 -0300] "GET /ClienteWEB/Cliente.html HTTP/1.1" 304 -

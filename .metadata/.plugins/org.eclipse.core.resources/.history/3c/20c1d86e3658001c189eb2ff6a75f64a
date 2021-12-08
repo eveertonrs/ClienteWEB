@@ -1,0 +1,5 @@
+package ClienteWEB;
+
+public class ClienteServlet	extends Https {
+
+}
